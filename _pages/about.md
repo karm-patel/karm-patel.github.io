@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 ## About
-My am a final year undergraduate student at [VGEC Chandkheda](https://www.vgecg.ac.in/). My major branch is **Computer Engineering**. My area of iterest is in Data science and Machine  learning.
+I am a final year undergraduate student at [VGEC, Chandkheda](https://www.vgecg.ac.in/). My major branch is **Computer Engineering**. My area of interest is Data science and Machine  learning.
 
-Currently I am doing final year internship in [IIT Gandhinagar](https://www.iitgn.ac.in/) under [Prof. Nipun Batra](https://nipunbatra.github.io/). Where I'm exploring Probablistic Machine learning using julia programming language.
+Currently I am doing final year internship in [IIT Gandhinagar](https://www.iitgn.ac.in/) under [Prof. Nipun Batra](https://nipunbatra.github.io/). Where I'm exploring Probablistic Machine learning using Julia programming language.
