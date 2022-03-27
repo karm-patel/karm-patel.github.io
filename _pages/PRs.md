@@ -4,6 +4,8 @@ permalink: /PRs/
 author_profile: true
 ---
 
+## Major Pull Requests
+
 ### 1. Pyro [[Repo Link](https://github.com/pyro-ppl/pyro)]
 **PR**: <https://github.com/pyro-ppl/pyro/pull/3039> <br>
 Added parameters in the graphical probablistic models.
