@@ -6,7 +6,7 @@ author_profile: true
 
 ## Projects 
 
-### 1. Attendance System using Face Recognition(ML,Python, Flask, SQL)
+### 1. Attendance System using Face Recognition (Python, Flask, SQL)
 MAR 21 - MAY 21, [Github](https://github.com/Attendance-Using-Face-Recognition/Online-Attendance-Using_Face-Recognition.git)
 
 - **Web**: Flask-based web application that provides functionalities such as taking attendance using face recognition, downloading attendance, adding lectures.
@@ -18,7 +18,7 @@ MAR 21 - MAY 21, [Github](https://github.com/Attendance-Using-Face-Recognition/O
 
 MAY 21, [Github](https://github.com/karm216/Vaccine-Slot-Notifier.git)
 
-I made this project when Indian government started vaccination drive. But due to uncertain time in updating vaccination slot, one had to check [cowin](https://www.cowin.gov.in/) portal continously. I made this application to help people to get notification of vaccine slot when slot is available. Around more than **200 people** registered on this website.
+I made this project when the Indian government started a vaccination drive. But due to uncertain time in updating vaccination slot, one had to check [cowin](https://www.cowin.gov.in/) portal continuously. I made this application to help people to get notification of vaccine slot when slot is available. Around more than **200 people** registered on this website.
 
 - **Web**: I deployed a Live Web application (using flask) on AWS Ec2 instance which collects the necessary details of a user & notifies him/her via email when a vaccine slot is available in his/her area.
 
