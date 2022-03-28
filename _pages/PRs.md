@@ -15,5 +15,5 @@ Added parameters in the graphical probablistic models.
 Added moment and test for ExGaussian distribution. 
 
 ### 3. NumPyro [[Repo Link](https://github.com/pyro-ppl/numpyro)]
-**PR**: <https://github.com/pyro-ppl/numpyro> <br>
+**PR**: <https://github.com/pyro-ppl/numpyro/pull/1375> <br>
 Added `__repr__` methods for various constarints. 
