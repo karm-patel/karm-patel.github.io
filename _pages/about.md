@@ -15,5 +15,5 @@ Currently I am doing final year internship in [IIT Gandhinagar](https://www.iitg
 
 ## Updates
 
-- 17 Mar, 2022: Achieved All India Rank - 128 in GATE Computer Science, 2022.
+- 17 Mar, 2022: Achieved All India Rank - 128/77,257 in GATE Computer Science, 2022.
 - 26 April, 2022: Our research paper got accepted at [COMPASS](https://compass.acm.org/) titled "Samachar: Print News Media on Air Pollution in India" 

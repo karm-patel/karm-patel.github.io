@@ -7,5 +7,8 @@ main:
     url: /PRs/  
 
   - title : "Publications"
-    url: "/publications/"  
+    url: "/publications/"
+
+  - title: "Blog"
+    url: /Blogs/  
     
