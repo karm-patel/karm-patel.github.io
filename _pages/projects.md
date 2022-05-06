@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects 
+<h2> Projects </h2>
 
 ### 1. Attendance System using Face Recognition (Python, Flask, SQL)
 MAR 21 - MAY 21, [Github](https://github.com/Attendance-Using-Face-Recognition/Online-Attendance-Using_Face-Recognition.git)
@@ -24,7 +24,7 @@ I made this project when the Indian government started a vaccination drive. But 
 
 - **Web scrapper**: I made Web-Scrapper using **requests & a beautiful soap** python library which continuously scrapes data from the Cowin website.
   
-I made [command line application](https://github.com/karm-patel/Vaccine-Slot-Notifier-Single-user) also, if user wants to run script on personal PC to reduce gap between actual slot updation time and notification time. 
+I also made [command line application](https://github.com/karm-patel/Vaccine-Slot-Notifier-Single-user), if user wants to run script on personal PC to reduce gap between actual slot updation time and notification time. 
    
 ### 3. ChatPlus (Android, Firebase)
 NOV 19 - JAN 20, [Github](https://github.com/karm-patel/HostelManagementWebSystem.git)
