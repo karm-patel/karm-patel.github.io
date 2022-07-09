@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "Karm Patel"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# **Karm** Patel
 
 ## About
 I have recently completed my B.E. in CSE at [VGEC, Chandkheda](https://www.vgecg.ac.in/). Now I'll be joining [IISc Bangalore](https://iisc.ac.in/) on 18th July for M.Tech, Compuer Science.
