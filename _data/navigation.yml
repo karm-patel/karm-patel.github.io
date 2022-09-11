@@ -13,4 +13,4 @@ main:
     url: /Blogs/ 
 
   - title: "GSoC"
-    url: "/GSoC/" 
+    url: /GSoC/ 
