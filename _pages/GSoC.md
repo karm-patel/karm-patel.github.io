@@ -19,6 +19,7 @@ In this post, I will share my GSoC'22 journey with the TensorFlow organization o
 
 ## Main contributions
 I had broadly 3 main tasks in my GSoC project
+
 | No. | Task | Time allocated (in %) |
 | -- | -- | -- |
 |1 | JAX implementation of algorithms | 30% |
@@ -193,6 +194,7 @@ In the first draft of the book, most of the figures were made according matplotl
 |![image](https://user-images.githubusercontent.com/59387624/160594173-dbbf0e05-b27d-4a64-b4d1-45191ec1b2b6.png)|![image](https://user-images.githubusercontent.com/59387624/160594021-60162b05-0cd0-42d9-b22a-6dabace6dda0.png)
 
 I can classify this task into 3 sub-taks:
+
 | No. | Sub-task | Description/PRs |
 | -- | -- | -- |
 | 1. | Latexification of figures | Examples PR: [#723](https://github.com/probml/pyprobml/pull/723) [#726](https://github.com/probml/pyprobml/pull/726) [#891](https://github.com/probml/pyprobml/pull/891) [#1101](https://github.com/probml/pyprobml/pull/1101) [#1038](https://github.com/probml/pyprobml/pull/1038)|
