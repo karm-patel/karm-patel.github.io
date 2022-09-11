@@ -5,7 +5,7 @@ permalink: /GSoC/
 author_profile: true
 ---
 
-# GSoC 2022: Final Report
+# Google Summer of Code 2022: Final Report
 Getting accepted as a GSoC contributor and working with Dr. Kevin Murphy was a dream!
 
 In this post, I will share my GSoC'22 journey with the TensorFlow organization on the project "JAX ML Textbook" mentored by [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/). The project contains the tasks related to the upcoming textbook [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (book2) and the existing textbook [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (book1) by Dr. Murphy. I contributed in mainly two repos - 1) [probml/pyprobml](https://github.com/probml/pyprobml): A public repo where the code is published. 2) [probml/bookv2](https://github.com/probml/bookv2): A private repo for the changes in the latex source code of the textbook.
