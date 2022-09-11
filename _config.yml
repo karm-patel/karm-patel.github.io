@@ -187,6 +187,9 @@ collections:
   PRs :
     output: true
     permalink: /:collection/:path/
+  GSoC :
+    output: true
+    permalink: /:collection/:path/
 
 # Collections
 collections:
