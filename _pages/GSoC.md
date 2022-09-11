@@ -203,6 +203,7 @@ I can classify this task into 3 sub-taks:
 
 ### 3. Refactoring pyprobml repo for better management: 
 There are 425+ notebooks in the pyprobml repo which contains code that uses almost all ML libraries of Python. To manage this large codebase we need mechanisms to manage it well. In my GSoC, I synchronized with Zeel in contributing refactoring tasks including but not limited to organizing structure of repo, converting .py to .ipynb notebooks, redirection of figures' code from the textbook, Creating workflows on PR, Creating dashboards of notebooks, generating well-organized readme files, dead url checking in textbook, converting pdfs of figures to cmyk format. resolving comments on the book by MIT press, etc. I have enlisted some parts of this tasks in the following table: 
+
 | Task | PR |
 | -- | -- |
 | Resolving notebook errors raised due to library update or other reasons| [#765](https://github.com/probml/pyprobml/pull/756) [#774](https://github.com/probml/pyprobml/pull/774) [#935](https://github.com/probml/pyprobml/pull/935) [#936](https://github.com/probml/pyprobml/pull/936) [#960](https://github.com/probml/pyprobml/pull/960) |
