@@ -11,8 +11,8 @@ Getting accepted as a GSoC contributor and working with Dr. Kevin Murphy was a d
 In this post, I will share my GSoC'22 journey with the TensorFlow organization on the project "JAX ML Textbook" mentored by [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/). The project contains the tasks related to the upcoming textbook [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (book2) and the existing textbook [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (book1) by Dr. Murphy. I contributed in mainly two repos - 1) [probml/pyprobml](https://github.com/probml/pyprobml): A public repo where the code is published. 2) [probml/bookv2](https://github.com/probml/bookv2): A private repo for the changes in the latex source code of the textbook.
 
 ## Highlights
-- Created 75 PRs in public `probml/pyprobml` repo & 25 PRs in [probml/probml-utils](https://github.com/probml/probml-utils)
-- Created 35 PRs in private `probml/bookv2` repo
+- I worked on this project for 16 weeks and on an average 38 hours a week.
+- Created 75 PRs in public `probml/pyprobml` repo, 25 PRs in [probml/probml-utils](https://github.com/probml/probml-utils), and 35 PRs in private `probml/bookv2` repo
 - I learned many concepts of probabilistic machine learning
 - I learned about the [JAX](https://github.com/google/jax) library for high-performance machine learning
 - I learned some GitHub tricks such as managing workflows 
