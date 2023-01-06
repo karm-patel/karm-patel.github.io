@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Looking for Summer Internships (2023) in Data science role
+## Actively Looking for Summer Internships (2023) in Data Science role
 ## About
 I am pursuing M.Tech in Computer Science at [IISc Bangalore]((https://iisc.ac.in/) ), India. Currently, in my first semester, I am exploring various domains of computer science such as Intelligent systems, Computer systems, and theoretical computer science. However, I am more inclined towards Intelligent systems (Machine Learning and AI).
 
