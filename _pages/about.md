@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Karm Patel
+Karm is a M.Tech student in Computer Science at [IISc Bangalore]((https://iisc.ac.in/) ), India.  Currently he is working in the [cognition lab](https://cns.iisc.ac.in/sridhar/) under Prof. Sridhar Devarajan. Where he is exploring Computer Vision domain for medical imaging. In Summer 2022, he worked with [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) as a Google Summer of Code contributor at Tensorflow organization. He has done Bachelors from VGEC, Ahmedabad in Computer Engineering.  
 
-## Actively Looking for Summer Internships (2023) in Data Science role
-## About
-I am pursuing M.Tech in Computer Science at [IISc Bangalore]((https://iisc.ac.in/) ), India. Currently, in my first semester, I am exploring various domains of computer science such as Intelligent systems, Computer systems, and theoretical computer science. However, I am more inclined towards Intelligent systems (Machine Learning and AI).
+<!-- Currently, in my first semester, I am exploring various domains of computer science such as Intelligent systems, Computer systems, and theoretical computer science. However, I am more inclined towards Intelligent systems (Machine Learning and AI). -->
 
 <!-- Previously, I was a **GSoC'22 contributor** (TensorFlow team) under mentors [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) and [Prof. Nipun Batra](https://nipunbatra.github.io/). Where I explored the algorithms of probabilistic machine learning and contributed to [pyprobml](https://github.com/probml/pyprobml) repo. This repo contains source code to reproduce the figure in [books](https://probml.github.io/pml-book/) written by Dr. Kevin Murphy. Where I have contributed in converting existing code from other Python frameworks (Torch, Pymc, etc) to JAX ([example PR](https://github.com/probml/pyprobml/issues/694#issuecomment-1095150779)), improving figures quality ([example PR](https://github.com/probml/pyprobml/pull/713)), and refactoring the codebase ([example PR](https://github.com/probml/pyprobml/pull/807)) to manage pyprobml repo efficiently. -->
 
