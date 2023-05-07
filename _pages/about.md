@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About
-Karm is an M.Tech student in Computer Science at [IISc Bangalore](https://iisc.ac.in/), India. Currently he is working in the [cognition lab](https://cns.iisc.ac.in/sridhar/) under Prof. Sridhar Devarajan. Where he is exploring Computer Vision domain for medical imaging. In Summer 2022, he worked with [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) as a Google Summer of Code contributor at Tensorflow organization. He has done Bachelor from VGEC, Ahmedabad, in Computer Engineering.    
+Karm is an M.Tech student in Computer Science at [IISc Bangalore](https://iisc.ac.in/), India. Currently he is working in the [cognition lab](https://cns.iisc.ac.in/sridhar/) with Prof. Sridhar Devarajan. Where he is exploring Computer Vision domain for medical imaging. In Summer 2022, he worked with [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) as a Google Summer of Code contributor at Tensorflow organization. He has done Bachelor from VGEC, Ahmedabad, in Computer Engineering.    
 
 <!-- Currently, in my first semester, I am exploring various domains of computer science such as Intelligent systems, Computer systems, and theoretical computer science. However, I am more inclined towards Intelligent systems (Machine Learning and AI). -->
 
