@@ -22,6 +22,6 @@ Karm is pursuing an M.Tech  in Computer Science from [IISc Bangalore](https://ii
 - **1 July 2022**: Presented (Virtually)  my paper "Samachar" in [COMPASS](https://compass.acm.org/) conference. 
 - **21 May, 2022**: I got selected in GSoC'22, TensorFlow team under Dr. Kevin Murphy :)
 - **20 May, 2022**: Received M.Tech offers from IISc Bangalore and all Top IITs (IITB (MS Research), IITM, IITD, IITKgp, IITK, IITR, IITGn) based on my GATE score and performance in written test and interviews.
-- **6 May, 2022**: Dr. Kevin Murphy acknowledged me in his [tweet](https://twitter.com/sirbayes/status/1522450760029511683) for contributing to the refactoring process of his [book1](https://probml.github.io/pml-book/book1.html)'s codebase ([pyprobml](https://github.com/probml/pyprobml) repo).   
+<!-- - **6 May, 2022**: Dr. Kevin Murphy acknowledged me in his [tweet](https://twitter.com/sirbayes/status/1522450760029511683) for contributing to the refactoring process of his [book1](https://probml.github.io/pml-book/book1.html)'s codebase ([pyprobml](https://github.com/probml/pyprobml) repo).    -->
 - **26 April, 2022**: Our research paper got accepted at [ACM COMPASS](https://compass.acm.org/) titled "Samachar: Print News Media on Air Pollution in India". 
 - **17 Mar, 2022**: Achieved All India Rank - 128/77,257 in GATE Computer Science, 2022.
