@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 ## About
-Karm is an M.Tech student in Computer Science at [IISc Bangalore](https://iisc.ac.in/), India. Currently he is working in the [cognition lab](https://cns.iisc.ac.in/sridhar/) with Prof. Sridhar Devarajan. Where he is exploring Computer Vision domain for medical imaging. In Summer 2022, he worked with [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) as a Google Summer of Code contributor at Tensorflow organization. He has done Bachelor from VGEC, Ahmedabad, in Computer Engineering.    
+Karm is pursuing an M.Tech  in Computer Science from [IISc Bangalore](https://iisc.ac.in/), India. Currently, he is working in the [cognition lab](https://cns.iisc.ac.in/sridhar/) with [Prof. Sridhar Devarajan](https://scholar.google.com/citations?user=5ij8Y9YAAAAJ&hl=en). His area of interest is AI for healthcare. He is exploring self-supervised learning and out-of-distribution (OoD) generalization techniques for selective classification problems in medical images. In Summer 2022, he worked with [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) as a Google Summer of Code (GSoC) contributor at TensorFlow organization. He has done Bachelor from VGEC, Ahmedabad, in Computer Engineering.     
 
 <!-- Currently, in my first semester, I am exploring various domains of computer science such as Intelligent systems, Computer systems, and theoretical computer science. However, I am more inclined towards Intelligent systems (Machine Learning and AI). -->
 
 <!-- Previously, I was a **GSoC'22 contributor** (TensorFlow team) under mentors [Dr. Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) and [Prof. Nipun Batra](https://nipunbatra.github.io/). Where I explored the algorithms of probabilistic machine learning and contributed to [pyprobml](https://github.com/probml/pyprobml) repo. This repo contains source code to reproduce the figure in [books](https://probml.github.io/pml-book/) written by Dr. Kevin Murphy. Where I have contributed in converting existing code from other Python frameworks (Torch, Pymc, etc) to JAX ([example PR](https://github.com/probml/pyprobml/issues/694#issuecomment-1095150779)), improving figures quality ([example PR](https://github.com/probml/pyprobml/pull/713)), and refactoring the codebase ([example PR](https://github.com/probml/pyprobml/pull/807)) to manage pyprobml repo efficiently. -->
 
 ## Updates
+- **1 May 2023**: Joined Cognition lab ([Prof. Sridhar Devarajan](https://scholar.google.com/citations?user=5ij8Y9YAAAAJ&hl=en)) at IISc for MTech Project.  
 - **27 Dec 2022**: Topped in 1<sup>st</sup> semester M.Tech (course work) CSA at IISc with 9.0 CGPA.   
 - **26 Aug, 2022**: Gave a 4-minute lightning talk (in person) at [Air Sensors International Conference](https://airquality.ucdavis.edu/events/2022-asic) held in Bangalore.
 - **1 Aug, 2022**: Joined IISc, M.Tech, Comuter Science :)
