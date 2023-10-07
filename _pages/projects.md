@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 <h2> Projects </h2>
+Note: This page is outdated, please check my CV for latest projects.
+
 
 ### 1. Attendance System using Face Recognition (Python, Flask, SQL)
 MAR 21 - MAY 21, [Github](https://github.com/Attendance-Using-Face-Recognition/Online-Attendance-Using_Face-Recognition.git)
