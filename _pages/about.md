@@ -16,7 +16,7 @@ Karm is pursuing an M.Tech  in Computer Science from [IISc Bangalore](https://ii
 
 ## Updates
 - **15 Aug 2023**: Submitted the paper - "Rescuing referral failures during automated diagnosis of
-domain-shifted medical images" at AAAI-2024.
+domain-shifted medical images" - Anuj Srivastava (IISc), **Karm Patel** (IISc), Sridharan Devrajan (Center for Neuroscience, IISc), Pradeep Shenoy (Google Research), at AAAI-2024 -- Under review.
 - **1 Aug 2023**: I've been awarded Reliance Foundation PG Scholarship (among 100 in India).
 - **1 May 2023**: Joined Cognition lab ([Prof. Sridhar Devarajan](https://scholar.google.com/citations?user=5ij8Y9YAAAAJ&hl=en)) at IISc for MTech Project collaboration with **Google Reseach**.  
 - **27 Dec 2022**: Topped in 1<sup>st</sup> semester M.Tech (course work) CSA at IISc with 9.0 CGPA.   
